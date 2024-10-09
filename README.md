@@ -10,10 +10,8 @@ Amacımız, kullanıcıların keyifli bir alışveriş deneyimi yaşamasını sa
 Html
 Css
 JavaScript
-Bootstrap
 
 ## Frontend
 Html
 Css
-Bootstrap
 JavaScript
