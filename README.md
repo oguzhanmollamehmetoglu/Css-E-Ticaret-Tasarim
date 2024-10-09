@@ -26,3 +26,15 @@ Amacımız, kullanıcıların keyifli bir alışveriş deneyimi yaşamasını sa
   <li>Css</li>
   <li>JavaScript</li>
 </ul>
+
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Anasayfa.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Alışveriş Sepeti.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Erkek Ayakabı.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Kadın Ayakabı.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Çok Satılan Ürünler.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Çocuk Ayakabıları.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Banka Hesapları.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Footer.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Giriş.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/Hesap Oluştur.png" />
+<img src="https://github.com/oguzhanmollamehmetoglu/Css-E-Ticaret-Tasarim/blob/main/Proje%20Resimleri/İletişim.png" />
